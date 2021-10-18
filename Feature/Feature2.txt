@@ -1,0 +1,2 @@
+New Feature from Feature2 branch
+Commit1
